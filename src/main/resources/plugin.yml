@@ -1,0 +1,5 @@
+name: PandoraKillMessages
+version: ${project.version}
+main: me.nanigans.pandorakillmessages.PandoraKillMessages
+authors: [ProNanigans]
+description: Custom Kill Messages for PandoraPVP

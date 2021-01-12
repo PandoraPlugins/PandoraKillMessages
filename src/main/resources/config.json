@@ -1,0 +1,217 @@
+{
+  "_comment": "for a more detailed explnation of what stuff is, refer to: https://helpch.at/docs/1.8.8/",
+  "killMessages": {
+
+    "CONTACT":{
+    },
+    "ENTITY_ATTACK":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      },
+      "1": "{player} was dominated by {killer} with {weapon}"
+    },
+    "ENTITY_SWEEP_ATTACK":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "PROJECTILE":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      },
+      "1": "{player} was shot by {killer} with {weapon}"
+    },
+    "SUFFOCATION":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "FALL":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "FIRE":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "FIRE_TICK":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "MELTING":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "LAVA":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "DROWNING":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "BLOCK_EXPLOSION":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "ENTITY_EXPLOSION":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "VOID":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "LIGHTNING":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "SUICIDE":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "STARVATION":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "POISON":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "MAGIC":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "WITHER":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "FALLING_BLOCK":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "THORNS":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "DRAGON_BREATH":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    },
+    "CUSTOM":{
+      "data": {
+        "useDefault": false,
+        "disable": false,
+        "killedByPlayerOnly": false,
+        "defaultKiller": "Unknown",
+        "defaultWeapon": "their hand"
+      }
+    }
+  }
+}
